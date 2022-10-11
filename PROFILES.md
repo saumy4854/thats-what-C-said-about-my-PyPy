@@ -9,3 +9,8 @@
 - [Instagram](https://www.instagram.com/rizwan.nizarudin_/)
 - [Linkedin](https://www.linkedin.com/in/rizwan-nizarudin-3601b91b1/)
 - [GitHub](https://github.com/StuntStorm)
+
+### Saumy Shukla
+- [Instagram](https://www.instagram.com/saumyxshukla/)
+- [Linkedin](https://www.linkedin.com/in/saumy-shukla-211a25240/)
+- [GitHub](https://github.com/saumy4854)
