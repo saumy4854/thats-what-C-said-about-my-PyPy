@@ -17,3 +17,8 @@
 - Place: Indore, Madhya Pradesh, India
 - Bio: Second Year B.Tech. CSE from AITR-Indore, love frontend and gonna pursue web development in future
 - GitHub: [aayushhehe]([GitHub link](https://github.com/aayushhehe))
+
+#### Name: [SAUMY SHUKLA](https://www.linkedin.com/in/saumy-shukla-211a25240/)
+- Place: Kanpur, Uttar Pradesh
+- Bio: second year B.Tech Electrical & Computer Engineering , interests include : mathematics, astronomy ,chess , badminton
+- GitHub: [saumy4854](https://github.com/saumy4854/)
